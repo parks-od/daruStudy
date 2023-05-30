@@ -58,7 +58,7 @@ ExtractCustomers 매크로 함수 참조
 ```
 프롬프트 명령어 :  total purchase amount이 500000 이상인 고객의 name과 e-mail 만을 데이터로 추려내어 새로운 시트에 남길 수 있는 자동화 방법이 필요해. VBA를 통해 매크로 형식으로 만든다면 어떻게 해야할까?
 ```
-ExtractCustomers 매크로 함수 참조
+ExtractCustomers2 매크로 함수 참조
 ```
 
 
