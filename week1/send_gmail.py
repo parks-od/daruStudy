@@ -1,6 +1,7 @@
 import smtplib, ssl
 from email.mime.text import MIMEText
 import my_gmail_account as gmail
+import pandas as pd
 
 # 메인 처리 --
 def send_test_gmail():
