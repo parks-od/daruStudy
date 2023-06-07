@@ -61,6 +61,11 @@ ExtractCustomers 매크로 함수 참조
 ExtractCustomers2 매크로 함수 참조
 ```
 
+# :calendar: WEEK 2-2
+### 1. ChatGPT 업무자동화 메일 발송 자동
+#### 1. 구글 코랩 활용
+- 온라인으로 파이썬 데이터분석 및 파이썬을 활용한 프로그램을 할 수 있는 도구
+#### 2. [ChatGPT]에게 프롬프트 명령을 통한 결과 값
 
 ## ⚙️ 개발 환경
 - `Git & GitHub`
